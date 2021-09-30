@@ -7,5 +7,4 @@ const Inventory = () => {
         </div>
     );
 };
-
-export default Inventory; <h1>
+export default Inventory;
